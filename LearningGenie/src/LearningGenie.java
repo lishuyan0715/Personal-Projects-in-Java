@@ -36,7 +36,7 @@ public class LearningGenie {
             System.out.println();
         }
         
-        in.close(); 
+        in.close();
         
         // write output to the file
     	FileWriter out = new FileWriter("data.tree");
